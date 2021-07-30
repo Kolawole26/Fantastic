@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="301.122" height="205.24" viewBox="0 0 1952.8 1331">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #b4bab8;
+      }
+
+      .cls-2 {
+        stroke: #fdfcfc;
+        stroke-width: 15.6px;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="665" cy="665.5" rx="665" ry="665.5"/>
+  <ellipse id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="1346" cy="665.5" rx="599" ry="599.5"/>
+</svg>
