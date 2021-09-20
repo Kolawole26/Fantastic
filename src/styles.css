@@ -5,3 +5,7 @@ body::before {
     content: '';
     height: 159px;
 }
+
+body {
+    box-sizing: border-box;
+}
